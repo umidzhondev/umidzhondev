@@ -25,4 +25,4 @@
 [![](https://visitcount.itsvg.in/api?id=UmidzhonDeveloper&label=Profile%20Views&color=3&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
