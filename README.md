@@ -1,6 +1,6 @@
 # Assalamu aleykum 👋 , I’m Umidjon Karabaev !:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&lines=Frontend+JavaScript+Developer;Software++Enginner;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=umidzhondev&theme=react&hide_border=true&include_all_commits=true&count_private=false)<br/>
