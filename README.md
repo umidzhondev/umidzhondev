@@ -21,11 +21,11 @@
     />
     <img
         width="49%"
-        src="https://github-readme-stats.vercel.app/api?username=umidzhondev&count_private=true&include_all_commits=true&show_icons=true&theme=react&custom_title=GitHub+Stats"
+        src="https://github-readme-stats.vercel.app/api?username=umidzhondev&theme=react&hide_border=true&include_all_commits=true&count_private=false"
     />
     <img
         width="49%"
-        src="https://github-readme-streak-stats.herokuapp.com?user=umidzhondev&theme=react"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=umidzhondev&theme=react&hide_border=true)"
     />
 </div>
 
