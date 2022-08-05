@@ -1,4 +1,6 @@
+<h3 align="center">
 # Assalamu aleykum 👋 , I’m Umidjon Karabaev :
+</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&vCenter=true&lines=Frontend+JavaScript+Developer;Software++Enginner;Always+learning+new+things)](https://git.io/typing-svg)
 
@@ -12,6 +14,20 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=umidzhondev&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=umidzhondev&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+<div align="center">
+    <img
+        width="100%"
+        src="https://activity-graph.herokuapp.com/graph?username=umidzhondev&custom_title=Umidjon+Karabaev&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea"
+    />
+    <img
+        width="49%"
+        src="https://github-readme-stats.vercel.app/api?username=umidzhondev&count_private=true&include_all_commits=true&show_icons=true&theme=react&custom_title=GitHub+Stats"
+    />
+    <img
+        width="49%"
+        src="https://github-readme-streak-stats.herokuapp.com?user=umidzhondev&theme=react"
+    />
+</div>
 
 
 ## 🏆 GitHub Trophies
