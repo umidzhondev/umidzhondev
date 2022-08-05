@@ -20,15 +20,15 @@
         src="https://activity-graph.herokuapp.com/graph?username=umidzhondev&custom_title=Umidjon+Karabaev&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea"
     />
     <img
-        width="49%"
+        width="49%" height="80%"
         src="https://github-readme-stats.vercel.app/api?username=umidzhondev&theme=react&hide_border=true&include_all_commits=true&count_private=false"
     />
     <img
-        width="49%"
+        width="49%" height="80%"
         src="https://github-readme-streak-stats.herokuapp.com/?user=umidzhondev&theme=react&hide_border=true)"
     />
     <img align="left"
-        width="100%"
+        width="70%"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=umidzhondev&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact"
     />
     <br/>
