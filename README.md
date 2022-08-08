@@ -16,7 +16,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=umidzhondev&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact) -->
 
 <div >
-  <a href="https://github.com/umidzhondev/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AzizbekFayziyev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/umidzhondev/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Umidjon Karabaev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
     <img
         src="https://github-readme-stats.vercel.app/api?username=umidzhondev&theme=react&hide_border=true&include_all_commits=true&count_private=false"
     />
