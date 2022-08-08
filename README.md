@@ -1,9 +1,8 @@
-<h3 align="center">
-# Assalamu aleykum 👋 , I’m Umidjon Karabaev :
-
+<h1 align="center">Assalamu aleykum, I'm Umidjon Karabaev</h1>
+<h3 align="center">I'm A Front-End Devloper from Kyrgyzstan.</h3>
+<h2 align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&vCenter=true&lines=Frontend+JavaScript+Developer;Software++Enginner;Always+learning+new+things)](https://git.io/typing-svg)
-
-</h3>
+</h2>
 
 # 💻 Tech Stack:
 
