@@ -1,7 +1,7 @@
 <h1 align="center">Assalamu aleykum, I'm Umidjon Karabaev</h1>
 <h3 align="center">I'm A Front-End Devloper from Kyrgyzstan.</h3>
 <h2 align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&vCenter=true&lines=Frontend+JavaScript+Developer;Software++Enginner;Always+learning+new+things)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&pause=500&color=0017F7&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 </h2>
 
 # 💻 Tech Stack:
